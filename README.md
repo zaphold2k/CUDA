@@ -1,2 +1,2 @@
-# cuda
-Ejemplos realizados para utilizar CUDA
+# CUDA
+Ejemplos de utilización de CUDA con C++
